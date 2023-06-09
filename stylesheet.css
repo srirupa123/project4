@@ -1,0 +1,119 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.first {
+  display: inline;
+  margin-left: 3px;
+  margin-top: 12px;
+  font-size: 45px;
+}
+.firs {
+  height: 50px;
+  width: 44px;
+  margin-left: 10px;
+  font-size: 40px;
+}
+.sec {
+  float: left;
+  width: 30%;
+}
+ul {
+  float: left;
+  text-decoration: none;
+  margin-top: 50px;
+}
+li {
+  list-style-type: none;
+  float: left;
+  margin-left: 61px;
+}
+.sup {
+  clear: both;
+}
+.super {
+  position: relative;
+  height: 484px;
+  width: 100%;
+}
+.burger {
+  position: absolute;
+  top: 157px;
+  color: aliceblue;
+  margin-left: 143px;
+  margin-top: -24px;
+}
+.pizza {
+  float: left;
+  width: 50%;
+  position: relative;
+}
+.pizza1 {
+  position: absolute;
+  top: 0px;
+  position: absolute;
+  top: 775px;
+  left: 300px;
+  color: aliceblue;
+}
+.choclate {
+  float: right;
+  width: 50%;
+  position: relative;
+}
+
+.chimg {
+  margin-top: 62px;
+  width: 547px;
+  height: 155px;
+}
+.choc {
+  position: absolute;
+  top: 126px;
+  right: 200px;
+}
+.bakery {
+  clear: right;
+  position: relative;
+}
+.bak {
+  position: absolute;
+  right: 317px;
+  top: 50px;
+}
+.h {
+  margin-left: 590px;
+  margin-top: 10px;
+  width: 100px;
+  border: 1px solid black;
+}
+.ico {
+  float: left;
+  width: 20%;
+  padding: 10px;
+}
+.p1 {
+  float: left;
+  width: 33%;
+}
+.p2 {
+  clear: both;
+}
+.p3 {
+  float: right;
+}
+.p5 {
+  display: flex;
+  margin-right: -89px;
+}
+.fastfood {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 15px;
+}
+.bak1 {
+  height: 155px;
+  width: 547px;
+  position: relative;
+}
